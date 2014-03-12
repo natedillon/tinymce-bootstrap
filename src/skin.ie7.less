@@ -1,6 +1,6 @@
 // Reset
 
-.mce-container, .mce-container *, .mce-widget, .mce-widget * {
+.mce-container, .mce-container *, .mce-widget, .mce-widget *, .mce-reset {
 	margin: 0; padding: 0; border: 0; outline: 0;
 	vertical-align: top; background: transparent;
 	text-decoration: none; color: @text;
@@ -28,22 +28,6 @@
 	-webkit-user-select: none;
 	-o-user-select: none;
 	user-select: none;
-}
-
-.mce-container ::-webkit-scrollbar {
-	width: 8px; height: 8px;
-	-webkit-border-radius: 4px;
-}
-
-.mce-container ::-webkit-scrollbar-track,
-.mce-container ::-webkit-scrollbar-track-piece {
-	background-color:transparent;
-}
-
-.mce-container ::-webkit-scrollbar-thumb {
-	background-color: rgba(053, 057, 071, 0.3);
-	width: 6px; height: 6px;
-	-webkit-border-radius: 4px;
 }
 // Variables
 // Syntax: <control>-(<sub control>)-<bg|border|text>-(<state>)-(<extra>);
@@ -327,6 +311,10 @@ div.mce-edit-area {
 	width: 12px; height: 12px;
 	margin: 2px;
 	cursor: pointer;
+
+	&:focus {
+		border-color: @grid-border-active;
+	}
 }
 
 .mce-grid {
@@ -337,7 +325,7 @@ div.mce-edit-area {
 		display: block;
 		border: 1px solid transparent;
 
-		&:hover {
+		&:hover, &:focus {
 			border-color: @grid-border-active;
 		}
 	}
@@ -1361,7 +1349,7 @@ i.mce-i-checkbox {
 	color: mix(@menuitem-text, @menu-bg, 40%);
 }
 
-.mce-menu-item:hover .mce-text, .mce-menu-item.mce-selected .mce-text {
+.mce-menu-item:hover .mce-text, .mce-menu-item.mce-selected .mce-text, .mce-menu-item:focus .mce-text {
 	color: @menuitem-text-inverse;
 }
 
@@ -1426,6 +1414,10 @@ i.mce-i-checkbox {
 }
 
 .mce-menu-item-normal.mce-active:hover .mce-text, .mce-menu-item-normal.mce-active:hover .mce-ico {
+	color: @menuitem-text-inverse;
+}
+
+.mce-menu-item-normal.mce-active:focus .mce-text, .mce-menu-item-normal.mce-active:focus .mce-ico {
 	color: @menuitem-text-inverse;
 }
 
@@ -1746,7 +1738,7 @@ i.mce-i-resize {
 .mce-i-media          { -ie7-icon: "\e015"; }
 .mce-i-help           { -ie7-icon: "\e016"; }
 .mce-i-code           { -ie7-icon: "\e017"; }
-.mce-i-inserttime     { -ie7-icon: "\e018"; }
+.mce-i-insertdatetime { -ie7-icon: "\e018"; }
 .mce-i-preview        { -ie7-icon: "\e019"; }
 .mce-i-forecolor      { -ie7-icon: "\e01a"; }
 .mce-i-backcolor      { -ie7-icon: "\e01a"; }
