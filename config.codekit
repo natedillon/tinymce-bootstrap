@@ -64,7 +64,7 @@
 		"outputAbbreviatedPath": "\/fonts\/readme.html",
 		"outputPathIsSetByUser": 0
 		},
-	"\/libs\/bootstrap\/alerts.less": {
+	"\/libs\/bootstrap\/less\/alerts.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -72,8 +72,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/alerts.less",
-		"outputAbbreviatedPath": "\/libs\/css\/alerts.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/alerts.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/alerts.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -83,7 +83,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/badges.less": {
+	"\/libs\/bootstrap\/less\/badges.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -91,8 +91,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/badges.less",
-		"outputAbbreviatedPath": "\/libs\/css\/badges.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/badges.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/badges.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -102,7 +102,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/bootstrap.less": {
+	"\/libs\/bootstrap\/less\/bootstrap.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -110,8 +110,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/bootstrap.less",
-		"outputAbbreviatedPath": "\/libs\/css\/bootstrap.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/bootstrap.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/bootstrap.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -121,7 +121,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/breadcrumbs.less": {
+	"\/libs\/bootstrap\/less\/breadcrumbs.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -129,8 +129,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/breadcrumbs.less",
-		"outputAbbreviatedPath": "\/libs\/css\/breadcrumbs.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/breadcrumbs.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/breadcrumbs.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -140,7 +140,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/button-groups.less": {
+	"\/libs\/bootstrap\/less\/button-groups.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -148,8 +148,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/button-groups.less",
-		"outputAbbreviatedPath": "\/libs\/css\/button-groups.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/button-groups.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/button-groups.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -159,7 +159,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/buttons.less": {
+	"\/libs\/bootstrap\/less\/buttons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -167,8 +167,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/buttons.less",
-		"outputAbbreviatedPath": "\/libs\/css\/buttons.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/buttons.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/buttons.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -178,7 +178,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/carousel.less": {
+	"\/libs\/bootstrap\/less\/carousel.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -186,8 +186,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/carousel.less",
-		"outputAbbreviatedPath": "\/libs\/css\/carousel.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/carousel.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/carousel.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -197,7 +197,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/close.less": {
+	"\/libs\/bootstrap\/less\/close.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -205,8 +205,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/close.less",
-		"outputAbbreviatedPath": "\/libs\/css\/close.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/close.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/close.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -216,7 +216,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/code.less": {
+	"\/libs\/bootstrap\/less\/code.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -224,8 +224,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/code.less",
-		"outputAbbreviatedPath": "\/libs\/css\/code.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/code.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/code.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -235,7 +235,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/component-animations.less": {
+	"\/libs\/bootstrap\/less\/component-animations.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -243,8 +243,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/component-animations.less",
-		"outputAbbreviatedPath": "\/libs\/css\/component-animations.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/component-animations.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/component-animations.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -254,7 +254,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/dropdowns.less": {
+	"\/libs\/bootstrap\/less\/dropdowns.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -262,8 +262,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/dropdowns.less",
-		"outputAbbreviatedPath": "\/libs\/css\/dropdowns.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/dropdowns.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/dropdowns.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -273,7 +273,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/forms.less": {
+	"\/libs\/bootstrap\/less\/forms.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -281,8 +281,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/forms.less",
-		"outputAbbreviatedPath": "\/libs\/css\/forms.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/forms.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/forms.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -292,7 +292,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/glyphicons.less": {
+	"\/libs\/bootstrap\/less\/glyphicons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -300,8 +300,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/glyphicons.less",
-		"outputAbbreviatedPath": "\/libs\/css\/glyphicons.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/glyphicons.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/glyphicons.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -311,7 +311,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/grid.less": {
+	"\/libs\/bootstrap\/less\/grid.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -319,8 +319,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/grid.less",
-		"outputAbbreviatedPath": "\/libs\/css\/grid.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/grid.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/grid.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -330,7 +330,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/input-groups.less": {
+	"\/libs\/bootstrap\/less\/input-groups.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -338,8 +338,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/input-groups.less",
-		"outputAbbreviatedPath": "\/libs\/css\/input-groups.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/input-groups.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/input-groups.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -349,7 +349,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/jumbotron.less": {
+	"\/libs\/bootstrap\/less\/jumbotron.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -357,8 +357,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/jumbotron.less",
-		"outputAbbreviatedPath": "\/libs\/css\/jumbotron.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/jumbotron.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/jumbotron.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -368,7 +368,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/labels.less": {
+	"\/libs\/bootstrap\/less\/labels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -376,8 +376,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/labels.less",
-		"outputAbbreviatedPath": "\/libs\/css\/labels.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/labels.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/labels.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -387,7 +387,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/list-group.less": {
+	"\/libs\/bootstrap\/less\/list-group.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -395,8 +395,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/list-group.less",
-		"outputAbbreviatedPath": "\/libs\/css\/list-group.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/list-group.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/list-group.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -406,7 +406,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/media.less": {
+	"\/libs\/bootstrap\/less\/media.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -414,8 +414,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/media.less",
-		"outputAbbreviatedPath": "\/libs\/css\/media.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/media.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/media.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -425,7 +425,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/mixins.less": {
+	"\/libs\/bootstrap\/less\/mixins.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -433,8 +433,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/mixins.less",
-		"outputAbbreviatedPath": "\/libs\/css\/mixins.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/mixins.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/mixins.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -444,7 +444,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/modals.less": {
+	"\/libs\/bootstrap\/less\/modals.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -452,8 +452,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/modals.less",
-		"outputAbbreviatedPath": "\/libs\/css\/modals.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/modals.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/modals.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -463,7 +463,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/navbar.less": {
+	"\/libs\/bootstrap\/less\/navbar.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -471,8 +471,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/navbar.less",
-		"outputAbbreviatedPath": "\/libs\/css\/navbar.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/navbar.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/navbar.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -482,7 +482,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/navs.less": {
+	"\/libs\/bootstrap\/less\/navs.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -490,8 +490,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/navs.less",
-		"outputAbbreviatedPath": "\/libs\/css\/navs.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/navs.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/navs.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -501,7 +501,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/normalize.less": {
+	"\/libs\/bootstrap\/less\/normalize.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -509,8 +509,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/normalize.less",
-		"outputAbbreviatedPath": "\/libs\/css\/normalize.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/normalize.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/normalize.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -520,7 +520,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/pager.less": {
+	"\/libs\/bootstrap\/less\/pager.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -528,8 +528,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/pager.less",
-		"outputAbbreviatedPath": "\/libs\/css\/pager.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/pager.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/pager.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -539,7 +539,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/pagination.less": {
+	"\/libs\/bootstrap\/less\/pagination.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -547,8 +547,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/pagination.less",
-		"outputAbbreviatedPath": "\/libs\/css\/pagination.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/pagination.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/pagination.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -558,7 +558,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/panels.less": {
+	"\/libs\/bootstrap\/less\/panels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -566,8 +566,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/panels.less",
-		"outputAbbreviatedPath": "\/libs\/css\/panels.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/panels.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/panels.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -577,7 +577,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/popovers.less": {
+	"\/libs\/bootstrap\/less\/popovers.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -585,8 +585,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/popovers.less",
-		"outputAbbreviatedPath": "\/libs\/css\/popovers.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/popovers.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/popovers.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -596,7 +596,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/print.less": {
+	"\/libs\/bootstrap\/less\/print.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -604,8 +604,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/print.less",
-		"outputAbbreviatedPath": "\/libs\/css\/print.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/print.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/print.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -615,7 +615,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/progress-bars.less": {
+	"\/libs\/bootstrap\/less\/progress-bars.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -623,8 +623,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/progress-bars.less",
-		"outputAbbreviatedPath": "\/libs\/css\/progress-bars.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/progress-bars.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/progress-bars.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -634,7 +634,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/responsive-utilities.less": {
+	"\/libs\/bootstrap\/less\/responsive-utilities.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -642,8 +642,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/responsive-utilities.less",
-		"outputAbbreviatedPath": "\/libs\/css\/responsive-utilities.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/responsive-utilities.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/responsive-utilities.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -653,7 +653,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/scaffolding.less": {
+	"\/libs\/bootstrap\/less\/scaffolding.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -661,8 +661,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/scaffolding.less",
-		"outputAbbreviatedPath": "\/libs\/css\/scaffolding.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/scaffolding.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/scaffolding.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -672,7 +672,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/tables.less": {
+	"\/libs\/bootstrap\/less\/tables.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -680,8 +680,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/tables.less",
-		"outputAbbreviatedPath": "\/libs\/css\/tables.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/tables.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/tables.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -691,7 +691,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/theme.less": {
+	"\/libs\/bootstrap\/less\/theme.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -699,8 +699,8 @@
 		"ieCompatibility": 1,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/theme.less",
-		"outputAbbreviatedPath": "\/libs\/css\/theme.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/theme.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/theme.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -710,7 +710,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/thumbnails.less": {
+	"\/libs\/bootstrap\/less\/thumbnails.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -718,8 +718,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/thumbnails.less",
-		"outputAbbreviatedPath": "\/libs\/css\/thumbnails.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/thumbnails.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/thumbnails.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -729,7 +729,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/tooltip.less": {
+	"\/libs\/bootstrap\/less\/tooltip.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -737,8 +737,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/tooltip.less",
-		"outputAbbreviatedPath": "\/libs\/css\/tooltip.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/tooltip.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/tooltip.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -748,7 +748,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/type.less": {
+	"\/libs\/bootstrap\/less\/type.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -756,8 +756,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/type.less",
-		"outputAbbreviatedPath": "\/libs\/css\/type.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/type.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/type.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -767,7 +767,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/utilities.less": {
+	"\/libs\/bootstrap\/less\/utilities.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -775,8 +775,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/utilities.less",
-		"outputAbbreviatedPath": "\/libs\/css\/utilities.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/utilities.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/utilities.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -786,7 +786,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/variables.less": {
+	"\/libs\/bootstrap\/less\/variables.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -794,8 +794,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/variables.less",
-		"outputAbbreviatedPath": "\/libs\/css\/variables.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/variables.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/variables.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
@@ -805,7 +805,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/libs\/bootstrap\/wells.less": {
+	"\/libs\/bootstrap\/less\/wells.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -813,8 +813,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/libs\/bootstrap\/wells.less",
-		"outputAbbreviatedPath": "\/libs\/css\/wells.css",
+		"inputAbbreviatedPath": "\/libs\/bootstrap\/less\/wells.less",
+		"outputAbbreviatedPath": "\/libs\/bootstrap\/css\/wells.css",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
