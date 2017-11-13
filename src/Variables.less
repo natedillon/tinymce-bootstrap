@@ -2,16 +2,19 @@
 // Syntax: <control>-(<sub control>)-<bg|border|text>-(<state>)-(<extra>);
 // Example: @btn-primary-bg-hover-hlight;
 
+// Import Bootstrap variables
+@import "../libs/bootstrap/less/variables.less";
+
 // Default font
 @font-family:                    "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-size:                      14px;
-@line-height:                    20px;
-@has-gradients:                  true;
+@font-size:                      @font-size-base;
+@line-height:                    @line-height-base;
+@has-gradients:                  false;
 @has-radius:                     true;
 @has-boxshadow:                  true;
 
 // Text colors
-@text:                           #333;
+@text:                           @text-color;
 @text-inverse:                   white;
 @text-disabled:                  #aaa;
 @text-shadow:                    0 1px 1px hsla(hue(@text-inverse), saturation(@text-inverse), lightness(@text-inverse), 0.75);
